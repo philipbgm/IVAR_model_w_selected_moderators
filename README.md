@@ -1,4 +1,4 @@
-# IVAR_model_w_selected_moderators
+# IVAR model with selected moderators
 IVAR model (interacted vector autoregression) with selected moderators applied with oil price shocks and GDP growth <br>
 The repository does not included dataset, just the code to run the regression and IVAR functions. <br>
 The IVAR algorithms is based on the interacted panel VAR by Towbin and Weber (2013) but allows to apply the moderator effect on selected variables only.
